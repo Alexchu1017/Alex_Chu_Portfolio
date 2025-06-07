@@ -236,17 +236,17 @@ span {
   background: var(--main-color);
   border-radius: 0.5rem;
 }
-.web-bar {
-  width: 94%;
+.Web-bar {
+  width: 95%;
 }
-.js-bar {
-  width: 74%;
+.GraphicDesign-bar {
+  width: 90%;
 }
-.graphicDesign-bar {
-  width: 80%;
-}
-.videoEditing-bar {
+.UIUXDesign-bar {
   width: 85%;
+}
+.VideoEditing-bar {
+  width: 90%;
 }
 
 .portfolio-content {
