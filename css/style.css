@@ -166,7 +166,7 @@ header.shadow {
   border-radius: 0.5rem;
 }
 .about-text p {
-  font-size: 0.85rem;
+  font-size: var(--p-font);
   font-weight: 400;
   text-align: justify;
 }
@@ -182,7 +182,6 @@ header.shadow {
   font-size: 22px;
 }
 .information .info-box span {
-  font-size: 0.9rem; 
   font-weight: 400;
   margin-left: 1rem;
 }
@@ -475,4 +474,4 @@ span {
   height: 8px;
   background-color: yellow !important;
   width: 0%;
-  }
+}
